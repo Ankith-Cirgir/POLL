@@ -4,7 +4,7 @@
 1. Download and extract the file from repo. 
 2. Double click on the EXE file n u can cast ur vote
 3. To check the status of the votes u can open cmd in the desired location of exe file
-4.  
+4. Open CMD in the directory where ur exe is saved then run this command `` vote.exe status  ``
 ## Here are few steps to get POLL working (IF U HAVE PYTHON3 INSTALLED):
 1. Download and extract the file from repo. 
 2. Open a cmd in the files location.
