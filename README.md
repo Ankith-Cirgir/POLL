@@ -11,6 +11,12 @@
 3. Enter the command: `` python  poll.py`` to cast your vote.
 4. Enter the command:  `` python poll.py status `` to check the voting status
 
+## FLOW CHART
+
+![FlowChart](/Task1.png)
+
+
+
 
 KNOWN PROBLEMS:
 1. Didnt handle input vote option as you can give any number and it will cast ur vote.
