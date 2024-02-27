@@ -1,5 +1,7 @@
 # POLL
 
+# Learning To use SQLite3
+
 ## Here are few steps to get POLL working (IF U DONT HAVE PYTHON3 INSTALLED):
 1. Download and extract the file from repo. 
 2. Double click on the EXE file n u can cast ur vote
